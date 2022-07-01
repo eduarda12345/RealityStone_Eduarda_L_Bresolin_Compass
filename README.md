@@ -7,6 +7,8 @@
 
 ruby about_"name".rb
 
-aonde olhei algum codigos para com eram o que colocar nos parte que faltava no codigo 
+Aonde olhei algum codigos para com eram o que colocar nos parte que faltava no codigo 
+
+E tambem pede ajuda para meus colegas de bolsa que ajudaram
 
 https://github.com/rcgary/Ruby-Koans
