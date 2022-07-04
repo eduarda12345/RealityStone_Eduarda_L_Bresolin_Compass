@@ -9,7 +9,7 @@ Ter Instalados essa dependencias
 Download pela site https://www.ruby-lang.org/pt/downloads/
 
 - rspec > 3.4.0 
-pelo comando bundle install no terminal do Visual Studio Code
+pelo comando bundle install no terminal do Visual Studio Code quando estiver com pasta aberta 
 
 - git > 2.36.1
 Download pela site https://git-scm.com/
@@ -18,6 +18,8 @@ Download pela site https://git-scm.com/
 Download pela site https://code.visualstudio.com/
 
 #Como executar os desafios do ruby koans
+
+Primeiro tem que fazer dowload no site ruby  das pasta 
 
 usar esse comando code . no cmd antes de abrir o arquivo usando o comando abaixo no terminar do Visual Studio Code
 
@@ -38,9 +40,12 @@ rspec specs/name_spec.rb
 
 #Autor(a)
 
-Eduarda L Bresolin
+Eduarda Lorenzet Bresolin
 
 Github: Eduarda L Bresolin
+
 LinkedIn: Eduarda L Bresolin
+
 Facebook: Eduarda L Bresolin
+
 Instragram: Eduarda L Bresolin
